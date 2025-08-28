@@ -1,3 +1,5 @@
+package abstracao_encapsulamento;
+
 public class Pet {
 
     private final String nome;
@@ -19,7 +21,4 @@ public class Pet {
     public void setClean(boolean clean) {
         this.clean = clean;
     }
-
-    
-    
 }

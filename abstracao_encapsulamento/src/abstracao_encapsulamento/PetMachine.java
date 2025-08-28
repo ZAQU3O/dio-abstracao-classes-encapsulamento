@@ -1,3 +1,4 @@
+package abstracao_encapsulamento;
 public class PetMachine {
 
     private boolean clean = true;
